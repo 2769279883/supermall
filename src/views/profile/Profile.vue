@@ -1,5 +1,5 @@
 <template>
-	<h2>cart</h2>
+	<h2>profile</h2>
 </template>
 
 <script>
